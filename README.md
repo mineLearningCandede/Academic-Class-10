@@ -1,2 +1,0 @@
-# ChemistryBasics
-KhanAcademy
