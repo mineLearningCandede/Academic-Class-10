@@ -1,2 +1,3 @@
 # khan academy
-# [Maths](https://minelearningcandede.github.io/Academic-Class-10/maths)
+# [Maths-hindi](https://www.khanacademy.org/math/in-in-class-10-math-cbse-hindi)
+# [Maths-english](https://www.khanacademy.org/math/in-in-grade-10-ncert)
